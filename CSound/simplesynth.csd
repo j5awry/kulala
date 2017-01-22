@@ -8,6 +8,7 @@
         instr 1
             kFreq invalue "sine1Freq"
             kAmp invalue "sine1Amp"
+
             aSine1 oscil kAmp, kFreq, 1
             outch 1, aSine1, 2, aSine1
 
