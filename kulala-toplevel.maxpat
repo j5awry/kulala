@@ -4008,6 +4008,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-74",
@@ -16898,7 +16899,7 @@
  ]
 									}
 ,
-									"patching_rect" : [ 127.0, 257.0, 96.0, 22.0 ],
+									"patching_rect" : [ 253.0, 262.0, 96.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"description" : "",
 										"digest" : "",
@@ -16955,6 +16956,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-23",
@@ -18806,7 +18808,7 @@
  ]
 									}
 ,
-									"patching_rect" : [ 140.0, 206.0, 59.0, 22.0 ],
+									"patching_rect" : [ 258.0, 227.0, 59.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"description" : "",
 										"digest" : "",
@@ -18836,7 +18838,7 @@
 											"modernui" : 1
 										}
 ,
-										"rect" : [ 42.0, 79.0, 920.0, 578.0 ],
+										"rect" : [ 439.0, 79.0, 920.0, 578.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -26095,7 +26097,6 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-4",
@@ -28609,13 +28610,13 @@
 			"obj-11" : [ "live.gain~[2]", "live.gain~[2]", 0 ],
 			"obj-16" : [ "live.gain~[1]", "live.gain~[1]", 0 ],
 			"obj-17::obj-12" : [ "live.gain~[5]", "live.gain~[5]", 0 ],
-			"obj-38" : [ "live.gain~[4]", "live.gain~[4]", 0 ],
 			"obj-17::obj-9::obj-58" : [ "live.dial[7]", "live.dial", 0 ],
+			"obj-38" : [ "live.gain~[4]", "live.gain~[4]", 0 ],
 			"obj-17::obj-84::obj-41" : [ "live.gain~[19]", "live.gain~[19]", 0 ],
 			"obj-21" : [ "live.gain~[3]", "live.gain~[3]", 0 ],
 			"obj-17::obj-9::obj-7" : [ "live.gain~[8]", "live.gain~[6]", 0 ],
-			"obj-8" : [ "live.gain~", "live.gain~", 0 ],
 			"obj-17::obj-9::obj-11" : [ "live.gain~[11]", "live.gain~[6]", 0 ],
+			"obj-8" : [ "live.gain~", "live.gain~", 0 ],
 			"obj-17::obj-9::obj-10" : [ "live.gain~[10]", "live.gain~[6]", 0 ],
 			"obj-17::obj-9::obj-9" : [ "live.gain~[9]", "live.gain~[6]", 0 ],
 			"obj-17::obj-9::obj-44" : [ "live.gain~[6]", "live.gain~[6]", 0 ],
